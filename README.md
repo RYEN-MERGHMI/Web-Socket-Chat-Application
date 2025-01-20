@@ -49,15 +49,8 @@ WebSocket is a communication protocol that provides **full-duplex communication*
 ---
 
 ## Project Structure
-src/
-├── main/
-│ ├── java/
-│ │ └── com/rayen/chat/ (Java backend code)
-│ └── resources/
-│ ├── static/ (Frontend files: CSS, JS, HTML)
-│ └── templates/ (Thymeleaf templates, if used)
-└── test/
-└── java/ (Unit tests)
+![Screenshot from 2025-01-20 10-51-01](https://github.com/user-attachments/assets/5e4b810b-fe9b-45c6-9993-419d232278ad)
+
 
 
 ---
